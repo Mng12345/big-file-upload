@@ -30,4 +30,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### 大文件上传
 
+大文件上传，vue+springboot 前后端分离
 后端代码见
