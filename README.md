@@ -31,4 +31,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### 大文件上传
 
 大文件上传，vue+springboot 前后端分离
+
+### demo
+![demo](https://github.com/Mng12345/big-file-upload/blob/master/demo.gif)
+
 后端代码见
+https://github.com/Mng12345/big-file-upload-backend
